@@ -1,16 +1,16 @@
-## Hi there 👋
+# Christian Oliveira Jorge Moreira
 
-<!--
-**Christian-Oli/Christian-Oli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📚 Escolaridade:
+**📗 Graduando em Análise e Desenvolvimento de Sistemas** (3º Semestre).
+## 💎 Objetivo:
+🛠️ Pretendo me tornar um **grande desenvolvedor**, gosto de criar opções criativas e que facilitam o progresso.
+## 🧬 Progresso/Conquistas:
+**📰 Em desenvolvimento...**
 
-Here are some ideas to get you started:
+## 🗃️ Fatos Sobre mim:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- *Sou uma pessoa bastante artística e lido muito bem com desenvolvimento e processos criativos voltados para **interfaces**. Uma das minhas maiores conquistas é dominar com confiança essa área que tanto amo.* ✏️
+
+---
+
+*Obrigado por ler até aqui!*☺️
